@@ -21,6 +21,6 @@ public class TodoRepository {
   }
 
   public List<Todo> getAll() {
-    return new ArrayList<Todo>(todos);
+    return null;
   }
 }
